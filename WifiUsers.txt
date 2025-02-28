@@ -1,0 +1,4 @@
+User: Sparsh
+Device: AirtelFibre
+MAC Address: XC70
+--------------------------
